@@ -19,8 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 This is a preview of the Intro Card UI:
 
 <p align="center">
-<img width="1919" height="986" alt="Image" src="https://github.com/user-attachments/assets/508a7c75-b886-45bf-8cbf-8f698274239a" />
+<img width="1919" height="986" alt="Image" src="https://github.com/user-attachments/assets/f869aa11-9389-4598-8342-0f06a5ecfe16" />
 </p>
 <p align="center">
-<img width="1918" height="984" alt="Image" src="https://github.com/user-attachments/assets/ab201c8d-5fa0-44a2-8970-0de7d7988fdf" />
+<img width="1918" height="984" alt="Image" src="https://github.com/user-attachments/assets/298e9c62-c508-40d0-8283-6d1738b2d754" />
 </p>
